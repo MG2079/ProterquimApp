@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ProterquimApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Color principal -->
+        <item name="colorPrimary">#4A90E2</item>
+        <item name="colorPrimaryDark">#357ABD</item>
+        <item name="colorAccent">#4A90E2</item>
+    </style>
+
+</resources>
